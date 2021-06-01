@@ -1,5 +1,33 @@
 [
   {
+    "package": "mrds",
+    "oncran": true
+  },
+  {
+    "package": "Distance",
+    "oncran": true
+  },
+  {
+    "package": "dsm",
+    "oncran": true
+  },
+  {
+    "package": "DSsim",
+    "oncran": false
+  },
+  {
+    "package": "dssd",
+    "oncran": true
+  },
+  {
+    "package": "dsims",
+    "oncran": true
+  },
+  {
+    "package": "mads",
+    "oncran": true
+  },
+  {
     "package": "readdst"
   }
 ]
