@@ -22,6 +22,7 @@
 	path = DSsim
 	url = https://github.com/distanceDevelopment/DSsim/
 	shallow = true
+	subdir = DSsim
 	registered = true
 [submodule "dssd"]
 	path = dssd
@@ -37,6 +38,7 @@
 	path = mads
 	url = https://github.com/distanceDevelopment/mads/
 	shallow = true
+	subdir = mads
 	registered = true
 [submodule "readdst"]
 	path = readdst
