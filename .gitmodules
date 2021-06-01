@@ -1,36 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/distancedevelopment/universe
 	shallow = true
 	branch = HEAD
-[submodule "Distance"]
-	path = Distance
-	url = https://github.com/distancedevelopment/distance
-	shallow = true
-	registered = true
-[submodule "dsims"]
-	path = dsims
-	url = https://github.com/distancedevelopment/dsims
-	shallow = true
-	registered = true
-[submodule "dsm"]
-	path = dsm
-	url = https://github.com/distancedevelopment/dsm
-	shallow = true
-	registered = true
-[submodule "dssd"]
-	path = dssd
-	url = https://github.com/distancedevelopment/dssd
-	shallow = true
-	registered = true
-[submodule "mads"]
-	path = mads
-	url = https://github.com/distancedevelopment/mads
-	shallow = true
-	subdir = mads
-	registered = true
-[submodule "mrds"]
-	path = mrds
-	url = https://github.com/distancedevelopment/mrds
+[submodule "readdst"]
+	path = readdst
+	url = https://github.com/distanceDevelopment/readdst/
 	shallow = true
 	registered = true

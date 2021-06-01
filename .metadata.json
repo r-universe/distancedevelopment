@@ -1,26 +1,5 @@
 [
   {
-    "package": "Distance",
-    "oncran": true
-  },
-  {
-    "package": "dsims",
-    "oncran": true
-  },
-  {
-    "package": "dsm",
-    "oncran": true
-  },
-  {
-    "package": "dssd",
-    "oncran": true
-  },
-  {
-    "package": "mads",
-    "oncran": true
-  },
-  {
-    "package": "mrds",
-    "oncran": true
+    "package": "readdst"
   }
 ]
