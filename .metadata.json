@@ -20,7 +20,8 @@
     "oncran": true
   },
   {
-    "package": "dsims"
+    "package": "dsims",
+    "oncran": true
   },
   {
     "package": "mads",
