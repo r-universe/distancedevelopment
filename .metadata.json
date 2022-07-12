@@ -25,7 +25,7 @@
   },
   {
     "package": "mads",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "readdst"
