@@ -15,12 +15,10 @@
     "package": "DSsim"
   },
   {
-    "package": "dssd",
-    "oncran": true
+    "package": "dssd"
   },
   {
-    "package": "dsims",
-    "oncran": true
+    "package": "dsims"
   },
   {
     "package": "mads",
