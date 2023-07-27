@@ -1,47 +1,30 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/distancedevelopment/universe
-	shallow = true
 	branch = HEAD
 [submodule "mrds"]
 	path = mrds
 	url = https://github.com/distanceDevelopment/mrds
-	shallow = true
-	registered = true
 [submodule "Distance"]
 	path = Distance
 	url = https://github.com/distanceDevelopment/Distance
-	shallow = true
-	registered = true
 [submodule "dsm"]
 	path = dsm
 	url = https://github.com/distanceDevelopment/dsm
-	shallow = true
-	registered = true
 [submodule "DSsim"]
 	path = DSsim
 	url = https://github.com/distanceDevelopment/DSsim
-	shallow = true
 	subdir = DSsim
-	registered = true
 [submodule "dssd"]
 	path = dssd
 	url = https://github.com/distanceDevelopment/dssd
-	shallow = true
-	registered = true
 [submodule "dsims"]
 	path = dsims
 	url = https://github.com/distanceDevelopment/dsims
-	shallow = true
-	registered = true
 [submodule "mads"]
 	path = mads
 	url = https://github.com/distanceDevelopment/mads
-	shallow = true
 	subdir = mads
-	registered = true
 [submodule "readdst"]
 	path = readdst
 	url = https://github.com/distanceDevelopment/readdst
-	shallow = true
-	registered = true
