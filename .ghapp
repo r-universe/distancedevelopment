@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["Distance", "dsims", "dsm", "dssd", "DSsim", "mads", "mrds", "readdst", "universe"]
+  "repositories": ["mads", "DSsim", "mrds", "dsm", "Distance", "readdst", "dssd", "dsims", "universe"]
 }
