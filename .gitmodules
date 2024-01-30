@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/distancedevelopment/universe
+	url = https://github.com/distancedevelopment/distancedevelopment.r-universe.dev
 	branch = HEAD
 [submodule "DSsim"]
 	path = DSsim
